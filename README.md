@@ -1,5 +1,5 @@
 ## Vue-Appstore
-纯粹学习。。
+纯粹学习。。。
 
 ## 用到的技术
 vue2 + vue-router + vue-resource + webpack + Vux + Less + ES6
